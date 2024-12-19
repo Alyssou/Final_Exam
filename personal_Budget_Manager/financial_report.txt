@@ -1,0 +1,8 @@
+Financial Report
+Period: Monthly
+
+Total Income: 200.0
+Total Expenses: 1200.0
+Current Savings: -1000.0
+Savings Goal: 10000.0
+Savings Progress: 25.0%
